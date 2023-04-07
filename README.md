@@ -11,3 +11,5 @@ En kötü durumda zaman karmaşıklığı O(n^4) dır, burada n, grafın toplam 
 Ortalama durumda, Blossom algoritmasının zaman karmaşıklığı O(E^2V) olarak tahmin edilir. Ancak, varyasyonlarına ve uygulama senaryolarına göre farklılık gösterebilir.
 
 Matematiksel ve asimptotik analizler yaparak, en iyi durumda E+V log V, en kötü durumda E^3 ve ortalama durumda E^2V karmaşıklığına sahip olan Blossom algoritmasının çalışma sınırları belirlenebilir.
+
+<img src="https://github.com/1210505028/blossom-algorithm/blob/main/blossom1.png" width="auto">
